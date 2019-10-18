@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android Localization</string>
+    <string name="full_name">Nama Lengkap</string>
+    <string name="email_add">Alamat Email</string>
+    <string name="numtelp">Nomor Telepon</string>
+    <string name="pass">Kata sandi</string>
+    <string name="agree">Saya telah membaca dan menyetujui perizinan</string>
+    <string name="save">simpan</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android Localization</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_add">Email Address</string>
+    <string name="numtelp">Phone Number</string>
+    <string name="pass">Password</string>
+    <string name="agree">I have read and agree the terms</string>
+    <string name="save">simpan</string>
+</resources>
